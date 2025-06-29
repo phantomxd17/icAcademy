@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://icacademy.vercel.app/sitemap.xml
